@@ -1,1 +1,1 @@
-# My .gemini fileds
+# My .gemini files

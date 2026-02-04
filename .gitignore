@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Allow .gitignore
+!/.gitignore
+
+# Allow GEMINI.md (Root and Antigravity versions)
+!/GEMINI.md
+!/antigravity/GEMINI.md
+
+# Allow antigravity directory structure
+!/antigravity/
+
+# Allow specific antigravity subdirectories recursively
+!/antigravity/skills/
+!/antigravity/skills/**
+
+!/antigravity/agents/
+!/antigravity/agents/**
